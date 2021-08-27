@@ -4,8 +4,6 @@
 #include <cstring>
 
 void menu();
-//void pascode();
-//void cpascode();
 using namespace std;
 class one
 {
